@@ -1,5 +1,5 @@
 config:
-  info: dev
+  info: test
 server:
   port: 3344
 
