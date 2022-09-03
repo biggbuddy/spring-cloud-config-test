@@ -1,2 +1,2 @@
-version:
-  no: 0.1-prod
+config:
+  info: hello-from-prod

@@ -1,2 +1,2 @@
-version:
-  no: 0.1-test
+config:
+  info: hello-from-test
