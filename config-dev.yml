@@ -1,2 +1,2 @@
-version: 
-  no: 0.1-dev
+config:
+  info: hello-from-dev
